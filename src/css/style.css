@@ -2,3 +2,9 @@ html, body{
 	height:100vh;
 	background-color: white;
 }
+
+.buttonCol {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
